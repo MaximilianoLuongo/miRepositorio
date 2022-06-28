@@ -1,1 +1,2 @@
 archivo de texto para probar comandos de git, ponele
+otro archivo
